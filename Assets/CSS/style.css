@@ -1,0 +1,37 @@
+
+html{
+    background-color: #fcfcfc;
+}
+
+nav {
+    height: 60px;
+    line-height: 30px;
+}
+
+.icon {
+    color: #141313;
+}
+
+.white {
+    box-shadow: 15px 15px 20px rgb(245, 240, 240);
+    
+}
+
+#texte {
+    margin-top: 75px;
+}
+
+.center {
+    margin-left : 40%; 
+    margin-right : 20%; 
+}
+
+.empty {
+    border: 3px solid red;
+    background-color: white;
+    color: black;
+}
+
+.centre {
+    text-align: center
+}
